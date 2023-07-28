@@ -10,3 +10,9 @@ This is a book recommendation web app that allows users to discover new books ba
 
 - Input a book title and get top book recommendations
 - View book recommendations along with book cover images, author names, and URLs
+
+## Dataset 
+[Book Recommendation Set](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
+
+## Note
+Some files were too large for me to upload on git.
